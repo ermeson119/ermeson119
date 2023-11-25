@@ -20,3 +20,11 @@ Habilidades: <br><br>
   <br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ermeson119)](https://github.com/anuraghazra/github-readme-stats) <br>
   ![](https://komarev.com/ghpvc/?username=your-github-ermeson119) 
+  <br>
+
+  <a herf="www.linkedin.com/in/ermeson-balbinot-andrade-0075b0240">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
+  </a>
+  <a herf="https://www.instagram.com/ermesonbalbinot/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
