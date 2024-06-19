@@ -17,12 +17,7 @@ Habilidades: <br><br>
   <br>
 
 
-  [![Emeson stats](https://github-readme-stats.vercel.app/api?username=ermeson119)](https://github.com/anuraghazra/github-readme-stats) 
-  <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ermeson119)](https://github.com/anuraghazra/github-readme-stats) <br>
-  ![](https://komarev.com/ghpvc/?username=your-github-ermeson119) 
-  
-  <br>
+
 
   <a herf="www.linkedin.com/in/ermeson-balbinot-andrade-0075b0240">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
