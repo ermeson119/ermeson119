@@ -8,7 +8,6 @@ No meu tempo livre, gosto de estudar novas tecnologias, praticar programação e
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ermeson119&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=00BFFF&bg_color=0d1117" alt="Ermeson Balbinot github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ermeson119&layout=compact&hide_border=true&title_color=8A2BE2&text_color=8A2BE2&bg_color=0d1117" />
 </div>
 
 
@@ -35,7 +34,7 @@ No meu tempo livre, gosto de estudar novas tecnologias, praticar programação e
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Jef-Oliver}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ermeson119}/count.svg" /></p> 
 <br>
 </div>
 
