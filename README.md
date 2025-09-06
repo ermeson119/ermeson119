@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Meu nome é Ermeson Balbinot, sou um desenvolvedor front-end com sede em Palmas, Brasil.
-Sou apaixonado por tecnologia e por criar experiências web que sejam bonitas, funcionais e acessíveis.
+Meu nome é Ermeson Balbinot, sou um desenvolvedor back-end com sede em Palmas, Brasil.
+Sou apaixonado por tecnologia e por criar experiências web que sejam funcionais e acessíveis.
 No meu tempo livre, gosto de estudar novas tecnologias, praticar programação e contribuir com projetos open source.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ermeson+Balbinot;I'm+25+years+old;I'm+from+Brazil;I'm+majoring+in+Systems+for+Internet;Be+Welcome!+:%29)](https://git.io/typing-svg)
